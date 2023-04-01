@@ -1,0 +1,18 @@
+/*
+App desenvovido: Jogo da Memoria GCC para fins de estudo da linguagem 
+Autor: Jhones Candido Fonseca 
+Data: 01/04/2023
+Declarações: Declaro que todo conteudo aki foi feito por mim em base a um estudo!!
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    border: none;
+    font-family: 'Press Start 2P', cursive;
+}
+
